@@ -9,7 +9,7 @@ Summary:	DateTime::Event::Cron - DateTime extension for generating recurrence se
 Summary(pl.UTF-8):	DateTime::Event::Cron - rozszerzenie DateTime do generowania zbiorów powtarzalności z crontabów
 Name:		perl-DateTime-Event-Cron
 Version:	0.07
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
